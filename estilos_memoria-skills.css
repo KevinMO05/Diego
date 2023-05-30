@@ -168,7 +168,7 @@ img{
     }
     
     .memory-theory .question h3{
-        font-size: 110%;
+        font-size: 120%;
         font-family: "Montserrat", sans-serif;
         font-weight: 600;
         text-align: center;
@@ -176,7 +176,7 @@ img{
     }
     
     .memory-theory .question p{
-        font-size: 80%;
+        font-size: 90%;
         font-family: "Montserrat", sans-serif;
         font-weight: 500;
         text-align: center;
@@ -190,7 +190,7 @@ img{
         align-items:center;
     }
     .memory-theory .image-theory img{
-        width: 40%;
+        width: 50%;
         display: flex;
         justify-content: center;
         align-items:center;
@@ -207,7 +207,7 @@ img{
     }
     
     .memory-theory .tips h3{
-        font-size: 110%;
+        font-size: 120%;
         font-family: "Montserrat", sans-serif;
         font-weight: 600;
         text-align: center;
@@ -215,7 +215,7 @@ img{
     }
     
     .memory-theory .tips ul li{
-        font-size: 80%;
+        font-size: 90%;
         font-family: "Montserrat", sans-serif;
         font-weight: 500;
         text-align: start;
@@ -258,7 +258,7 @@ img{
     }
     
     .memory-meet .link-meet h3{
-        font-size: 110%;
+        font-size: 120%;
         font-family: "Montserrat", sans-serif;
         font-weight: 600;
         text-align: start;
@@ -266,7 +266,7 @@ img{
         margin: 0%;
     }
     .memory-meet .link-meet p{
-        font-size: 80%;
+        font-size: 90%;
         font-family: "Montserrat", sans-serif;
         font-weight: 500;
         text-align: start;
@@ -274,7 +274,7 @@ img{
         margin: 0.5% 0%;
     }
     .memory-meet .link-meet a{
-        font-size: 80%;
+        font-size: 90%;
         font-family: "Montserrat", sans-serif;
         font-weight: 500;
         text-align: start;
@@ -297,7 +297,7 @@ img{
     }
     
     .memory-meet .meet-pharse p{
-        font-size: 80%;
+        font-size: 90%;
         font-family: "Montserrat", sans-serif;
         font-weight: 500;
         text-align: center;
